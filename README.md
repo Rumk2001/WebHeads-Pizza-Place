@@ -1,1 +1,2 @@
-# WebHeads-Pizza-Place
+Group project
+[Carmina Rotaru](https://github.com/CarminaRotaru)
